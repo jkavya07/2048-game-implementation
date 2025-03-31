@@ -28,20 +28,11 @@ Installation & Usage
 
 Clone the repository:
 
-git clone 
+git clone https://github.com/jkavya07/2048-game-implementation.git
 
-Navigate to the project folder:
-
-cd 2048-game
-
-Open 2048.html in a web browser to start playing.
-
-Contributing
-
-Feel free to fork the repository and submit pull requests with improvements or bug fixes.
+Save & Open 2048.html in a web browser to start playing.
 
 Acknowledgments
 
 Inspired by the original 2048 game
-
 Built using HTML, CSS, and JavaScript.
