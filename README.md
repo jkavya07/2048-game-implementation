@@ -7,7 +7,7 @@ Features
 Classic 2048 gameplay
 Responsive design for desktop and mobile
 Smooth animations
-Undo feature (if implemented)
+Undo feature 
 Score tracking
 AI-powered gameplay using the Expectimax algorithm
 
